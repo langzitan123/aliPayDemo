@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="alipay-sdk-java20170324180803">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/lib/alipay-sdk-java20170324180803.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/commons-logging-1.1.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/web/lib" />
+      <root url="jar://D:/apache-tomcat-9.0.22/lib/servlet-api.jar!/" />
+      <root url="file://$PROJECT_DIR$/web/lib" />
+      <root url="jar://D:/apache-tomcat-9.0.22/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/web/lib/alipay-sdk-java20170324180803-source.jar!/com/alipay/api" />
+      <root url="file://$PROJECT_DIR$/web/lib" />
+      <root url="file://$PROJECT_DIR$/web/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/web/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
